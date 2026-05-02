@@ -31,41 +31,20 @@ Backend system to optimize vehicle maintenance scheduling using dynamic programm
 npm install
 node vehicle_maintenance_scheduler/index.js
 
+---
 
-
-📊 Output
+Output
 Calculates maximum impact for each depot based on available mechanic hours
 Logs all operations using custom logging middleware
 
 
 ---
 
-# 🎯 Why this is better
+# 🚀 Now update your repo
 
-| Your version | Improved version |
-|------|------|
-| Plain text | Structured with sections |
-| No headings | Clear headings |
-| No instructions | Includes run steps |
-| Basic | Professional look |
-
----
-
-# ⚠️ Final Reminder (VERY IMPORTANT)
-
-Before submission, make sure:
-
-- ❌ `node_modules` removed  
-- ✅ `.gitignore` added  
-- ✅ required folders added  
-
----
-
-# 🚀 Final Step
-
-After updating README:
+Run:
 
 ```bash
-git add .
-git commit -m "improved README"
+git add README.md
+git commit -m "clean README for submission"
 git push
